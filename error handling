@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Error Handling</title>
+</head>
+
+<body>
+    <h1 id="result"></h1>
+    <p style = "color: red;" id="error"></p>
+
+    <script>
+    try {
+        codingal()
+    }
+
+    catch(error) {
+        document.getElementById("error").innerHTML = error.message
+    }
+    </script>
+</body>
+
+</html>
