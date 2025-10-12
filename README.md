@@ -1,4 +1,4 @@
-# Array Sorting and Mapping in JS
+# JS in detail
 
 | Project | Link | 
 | :------ | :---------- | 
