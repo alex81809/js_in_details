@@ -2,6 +2,6 @@
 
 | Project | Link | 
 | :------ | :---------- | 
-| `evaluation` | https://github.com/alex81809/array-sorting-and-mapping-in-js/tree/main/evaluation |
-| `sorting` | https://github.com/alex81809/array-sorting-and-mapping-in-js/tree/main/sorting | 
-| `sorting and reversing` | https://github.com/alex81809/array-sorting-and-mapping-in-js/tree/main/sorting_and_reversing |  
+| `arrow function` | https://github.com/alex81809/js_in_details/tree/main/arrow-function |
+| `error handling` | https://github.com/alex81809/js_in_details/tree/main/error_handling | 
+| `strings` | https://github.com/alex81809/js_in_details/tree/main/strings |  
